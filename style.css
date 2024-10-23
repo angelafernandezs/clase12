@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+:root {
+  --bs-primary-rgb: 41, 121, 255;
+  --bs-font-sans-serif: "Raleway", sans-serif;
+  --bs-body-font-family: var(--bs-font-sans-serif);
+}
+.card-body {
+    text-align: center;
+}
+.display-1{
+  font-size: calc(1.625rem + 5vw);
+  font-weight: 100;
+}
